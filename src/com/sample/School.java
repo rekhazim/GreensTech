@@ -18,7 +18,6 @@ public class School {
 			System.out.println(Li.get(i));
 		}
 		
-		Li.remove(4);
 		System.out.println(Li);
 		}
 	}
