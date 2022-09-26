@@ -14,12 +14,11 @@ public class Staff {
 		li.add(60);
 		li.add(80);
 		li.add(60);
-		li.add(50);
 		
 		
-		li.remove(1);
+		li.remove(2);
 		li.remove(6);
-		li.remove(7);
+		li.remove(4);
 		
 		System.out.println(li);
 		
