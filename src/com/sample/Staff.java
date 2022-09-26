@@ -1,11 +1,12 @@
 package com.sample;
 
+import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
 public class Staff {
 	public static void main(String[] args) {
-		List li = new LinkedList();
+		List li = new ArrayList();
 		
 		li.add(10);
 		li.add(10);

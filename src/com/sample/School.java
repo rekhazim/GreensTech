@@ -1,12 +1,13 @@
 package com.sample;
 
 import java.util.ArrayList;
+import java.util.LinkedList;
 import java.util.List;
 
 public class School {
 
 	public static void main(String[] args) {
-		List Li = new ArrayList();
+		List Li = new LinkedList();
 		
 		Li.add(10);
 		Li.add(20);
