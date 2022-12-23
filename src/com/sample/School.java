@@ -10,8 +10,6 @@ public class School {
 		
 		Li.add(10);
 		Li.add(20);
-		Li.add(30);
-		Li.add(90);
 		Li.add(10);
 		
 		for(int i=0; i<Li.size(); i++) {
